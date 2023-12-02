@@ -37,7 +37,9 @@ Software Developer
 `2016/09 – 2019/12` __IP Dynamics GmbH - Contact Center Consultant__
 - Contact Center integration projects and development.
 - Technical Consulting, System Architecture, Software Development, Technical Project Management
-
+- Miscellaneous projects:
+- C#, SQL
+  
 `2004/01 – 2016/09` __Stephan Klauberg EDV Beratung - Freelancer__
 - Contact Center integration projects and development.
 - Technical Consulting, System Architecture, Software Development, Technical Project Management
