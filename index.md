@@ -34,16 +34,13 @@ Software Developer
     - C#, REST APIs
 - [Azure DevOps](https://azure.microsoft.com/en-us/products/devops)
 
-`2016/09 – 2019/12` 
-__IP Dynamics GmbH - Contact Center Consultant__
+`2016/09 – 2019/12` __IP Dynamics GmbH - Contact Center Consultant__
 - Contact Center integration projects and development.
 - Technical Consulting, System Architecture, Software Development, Technical Project Management
 
-`2004/01 – 2016/09` 
-__Stephan Klauberg EDV Beratung - Freelancer__
+`2004/01 – 2016/09` __Stephan Klauberg EDV Beratung - Freelancer__
 - Contact Center integration projects and development.
 - Technical Consulting, System Architecture, Software Development, Technical Project Management
-  
 - Miscellaneous projects:
 - Lotus Notes,  C#, Contact Center Client Integration Development
 - VB.net,  C#, SQL, Fat Client Development
@@ -52,8 +49,7 @@ __Stephan Klauberg EDV Beratung - Freelancer__
 - Linux and Windows Server Administration
 - ...
   
-`1998/08 – 2003/12` 
-__GIquadrat mbH - Software Developer__
+`1998/08 – 2003/12` __GIquadrat mbH - Software Developer__
 - Miscellaneous projects:
 - Java Servlet, JSP Development e.g. [CoreMedia](https://www.coremedia.com/) e.g. [eventstoday.com](https://www.horizont.net/medien/nachrichten/-Grundig-geht-mit-einem-Eventportal-online-26711)  
 - Lotus Notes Administration and Development
