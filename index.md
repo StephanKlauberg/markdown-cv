@@ -4,6 +4,7 @@ title: Stephan Klauberg's CV
 ---
 # Stephan Klauberg
 Software Developer
+![](https://media.licdn.com/dms/image/D4E03AQHBrONGduZelA/profile-displayphoto-shrink_200_200/0/1689425380784?e=1706745600&v=beta&t=yzxAruqGsdMzr68KbrpmMTZTdy1zKztKJ9GRLU7N22M)
 
 <div id="webaddress">
 <a href="stephan.klauberg@gmail.com">stephan.klauberg@gmail.com</a>
@@ -13,162 +14,77 @@ Software Developer
 | <a href="https://stephan-klauberg.blogspot.com">blogspot</a>
 </div>
 
+## TLDR;
+* 20+ years of experience as generalist and software developer
+* worked on midsize and large contact center projects
+* Rust, C#, JavaScript, SQL, Java ...
+* TODO: add more on this page...
 
-## Education
+## Work experience
+`2020/01 – Present` 
+__IP Dynamics GmbH - Software developer__
+Part of a team responsible for developing contact center integrations.
+- [Node-RED](https://nodered.org/) based Call / Contact Flow Development
+    - node.js, Node-RED, SQL, C#, WiX installer
+- Salesforce CTI / Contact Center Integrations
+  - [OpenCTI](https://help.salesforce.com/s/articleView?id=sf.cloud_cti_api_overview.htm&type=5) and  [Omni-Channel](https://developer.salesforce.com/docs/atlas.en-us.omni_channel_dev.meta/omni_channel_dev/omnichannel_external_routing.htm)
+  - Apex, Visualforce, REST & Streaming Api
+  - in [iAgent](https://www.novomind.com/en/customer-service/iagent/) 
+    - Java [iAgent Apps](https://apps.novomind.com/developer/), Spring Boot, REST APIs
+  - and [Voxtron CC](https://enghouseinteractive.de/loesungen/contact-center/omnichannel-contact-center-software/)
+    - C#, REST APIs
+- [Azure DevOps](https://azure.microsoft.com/en-us/products/devops)
 
-`2003-2008`
-**Ph.D., Geology**, *University of Michigan*, Ann Arbor, MI, USA.
+`2016/09 – 2019/12` 
+__IP Dynamics GmbH - Contact Center Consultant__
+Contact Center integration projects and development.
+- Consulting, System Architecture, Software Development, Technical Project Management
 
-`1998-2002`
-**B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
+`2004/01 – 2016/09` 
+__Stephan Klauberg EDV Beratung - Freelancer__
+Contact Center integration projects and development.
+- Consulting, System Architecture, Software Development, Technical Project Management
+Miscellaneous projects:
+- VB.net / C# / SQL FatClient Development
+- Perl LDAP to Active Directory Synchronization
+- Java Servlet, JSP
+- Linux and Windows Server Administration
+`1998/08 – 2003/12` 
+__GIquadrat mbH - Software Developer__
+Miscellaneous projects:
+- Java Servlet, JSP Development e.g. [CoreMedia](https://www.coremedia.com/) e.g. [eventstoday.com](https://www.horizont.net/medien/nachrichten/-Grundig-geht-mit-einem-Eventportal-online-26711)  
+- Lotus Notes Administration and Development
+- Linux Administration (Bind, Apache, Postfix, etc.)
 
-## Experience
+## Side / Fun Projects
+`2009/01 - Present`
+- [knDosenlibelle](https://play.google.com/store/apps/dev?id=6166820916362934477), 10k Downloads, 3.7 Stars
 
-`2021-present`
-**Professor**, *Department of Geosciences and Geography, and Helsinki Institute of Sustainability Science (HELSUS), University of Helsinki*, Helsinki, Finland.
-
-`2013-2023`
-**Adjunct of the Faculty of Graduate Studies**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
-
-`2017-2020`
-**Associate professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2013-2016`
-**Assistant professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2009-2012`
-**Postdoctoral fellow**, *Department of Oceanography, Dalhousie University*, Halifax, NS, Canada.
-
-`2008-2009`
-**Postdoctoral fellow**, *Géosciences Rennes, University of Rennes 1*, Rennes, France.
-
-`2007`
-**Geoscientist (intern)**, *ExxonMobil Exploration Company*, Houston, TX, USA.
-
-`2003-2008`
-**Research assistant**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
-
-`2001-2003`
-**Laboratory assistant**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
-
-`2000-2002`
-**Tech consultant and Sites rover**, *Campus Computing Sites, University of Michigan*, Ann Arbor, MI, USA.
-
-## Publications
-
-*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). \* = student as lead author, &dagger; = shared first authorship.*
-
-
-### Software
-
-**D. M. Whipp**. Tc1D: a 1D thermal and thermochronometer age prediction model for quantifying rates of geodynamic and geomorphic processes. doi: [10.5281/zenodo.7124271](https://doi.org/10.5281/zenodo.7124271)
-
-**D. M. Whipp** and R. A. Ketcham. tcplotter: a Python package for creating and customizing thermochronometer age and closure temperature plots. doi: [10.5281/zenodo.5958939](https://doi.org/10.5281/zenodo.5958939).
-
-### Computing allocations
-
-`2014`
-**PRACE Preparatory Access**, *Partnership for Advanced Computing in Europe (PRACE)*, Brussels, Belgium, 200,000 core-hours. Sole PI.<br/>
-Nested DOUAR: Coupling high and low resolution finite element models to solve 3D geologic problems
-
-`2012`
-**Compute Canada National Resource Allocation**, *Compute Canada*, Toronto, ON, Canada, 109 core-years. Co-PI with J. Allen and C. Beaumont.<br/>
-Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt to the Himalayan peaks
-
-## Awards and honors
-
+## Certifications / Educations
+`2021/12` 
+__Rust Essential Training__ [LinkedIn Learning Certificate of Completion](https://www.linkedin.com/learning/certificates/9691ffd3445ee104aa5ce32caca0bb9391525a948f92ca94e6eafd074019c655)
 `2020`
-**Teacher of the Year**, *Vasara Ry (Geology student organization), University of Helsinki*, Finland.
-
-`2014`
-**Exceptional Reviewer**, *Lithosphere*, *Geological Society of America*.
-
-`2007`
-**Outstanding Graduate Student Instructor Award**, *Rackham Graduate School, University of Michigan*, Ann Arbor, MI, USA.
-
-**Outstanding Graduate Student Instructor Award**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
-
-`2006`
-**Outstanding Student Paper Award**, *Tectonophysics Section*, American Geophysical Union Fall Meeting.
-
-`2003`
-**Camp Davis Field Geologist Award**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
-
-## Invited talks
-
-`2019`
-**University of Turku**, *Department seminar, Department of Geography and Geology*, Turku, Finland.
-
-`2018`
-**16th International Conference on Thermochronology (Thermo 2018)**, *Session 2: Diffusion / annealing kinetics and thermal modelling*, Quedlinburg, Germany.
-
-`2017`
-**University of Lausanne**, *Department seminar, Institute of Earth Sciences*, Lausanne, Switzerland.
-
-**European Geosciences Union General Assembly**, *Session TS7.8: Mountain building processes, from top to bottom: the Zagros-Himalaya-Tibet orogenic system*, Vienna, Austria.
-
-`2016`
-**American Geophysical Union Fall Meeting**, *Session T42B: Sedimentary Basin Records of Convergent Orogenic Systems*, San Francisco, CA, USA.
-
-**University of Potsdam**, *Colloquium talk, Institute of Earth and Environmental Science*, Potsdam, Germany.
-
-`2014`
-**American Geophysical Union Fall Meeting**, *Session EP23G: From High Peaks to Level Plains: Using Thermochronometry to Study the Evolving Geosphere*, San Francisco, CA, USA.
-
-`2013`
-**University of Tübingen**, *Earth System Dynamics Research Group seminar, Department of Geosciences*, Tübingen, Germany.
-
-`2011`
-**Joseph Fourier University**, *Grand séminaire, Institut des Sciences de la Terre*, Grenoble, France.
-
-`2009`
-**Geological Society of America Annual Meeting**, *Session T46: Linking Shallow to Deep Crustal Processes in Arc and Collisional Orogens*, Portland, OR, USA.
-
-**Joseph Fourier University**, *Seminar talk, Laboratoire de géodynamique des chaînes alpines*, Grenoble, France.
-
-`2007`
-**Dalhousie University**, *Department seminar, Department of Earth Sciences*, Halifax, NS, Canada.
-
-## Conference activity
-
-### Organization
-
-`2017`
-**Session chair**, *NetherMod 2017 - XV International Workshop on Numerical Modelling of Mantle and Lithosphere Dynamics*, Putten, Netherlands.<br/>
-“Global modelling of early and recent Earth”
-
-`2016`
-**Session co-convener**, *Nordic Geological Winter Meeting*, Helsinki, Finland.<br/>
-“Dynamics and evolution of the lithosphere from Archean to present”<br/>
-“Interactions between climate, erosion and tectonics”
-
-`2014`
-**Steering committee**, *Lithosphere 2014 symposium*, Turku, Finland.
-
-`2013`
-**Session co-chair**, *28th Himalayan Karakorum Tibet Workshop and 6th International Symposium on Tibetan Plateau Joint Conference*, Tübingen, Germany.<br/>
-“Crustal Doming, Exhumation and Lateral Extrusion”
-
-`2010`
-**Session co-convener**, *Geological Society of America Annual Meeting*, Denver, Colorado, USA.<br/>
-“Orogeny: From rigid plates to diffuse lithospheric deformation”, one of several sessions celebrating the 30th anniversary of the Structural Geology and Tectonics Division of the GSA
+__Novomind iAgent App Development__ 
+`2008/07`
+__CoreMedia CMS, WebApp & Advanced Web App Development__
+`2007/Q3`
+__Sybase Adaptive Server Enterprise 12.5, OpenSwitch & Replication Server 15__
+`1996/08 - 1998/08`
+__Technischer Assistent für Informatik__, G18, Hamburg 
+`1991/08 - 1995/02`
+__Industrieelektroniker (Gerätetechnik)__, Friederich Justus & Co. (GmbH & Co.),Hamburg 
 
 ## Languages
+<!-- https://preply.com/de/blog/englisch-sprachniveaus/ -->
+- German: native
+- English : B2/C1
+- Italien: A1
 
-Native: German
-Medium: English
-Basic: Finnish, French, German
+### Personal
+* Age: 50
+* married, 1 kid
+* born, raised and living in Hamburg, Germany
+* Myers-Briggs: INFP?
 
-## Personal
-
-Birth date: 9 March 1980
-
-Citizenship: USA
-
-Residence: Finland (Permanent resident)
-
-<!-- 
-Family: Married, two children
--->
-
+## Footer
 <br/>Last updated: Dezember 2024<br/><br/>
