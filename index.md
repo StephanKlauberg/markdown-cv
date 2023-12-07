@@ -3,7 +3,7 @@ layout: cv
 title: Stephan Klauberg's CV
 ---
 # Stephan Klauberg
-Software Developer
+Lead Software Developer & Software Architect
 <br/>
 ![](https://media.licdn.com/dms/image/D4E03AQHBrONGduZelA/profile-displayphoto-shrink_200_200/0/1689425380784?e=1706745600&v=beta&t=yzxAruqGsdMzr68KbrpmMTZTdy1zKztKJ9GRLU7N22M)
 <div id="webaddress">
@@ -15,47 +15,42 @@ Software Developer
 </div>
 
 ## TLDR;
-* 20+ years of experience as IT generalist and software developer
-* worked on midsize and large contact center projects
-* Rust, C#, JavaScript, SQL, Java ...
-* TODO: i've to add a few things on this page ;-) ... 
+* 20+ years of experience as Software Developer and IT Generalist
+* Backend: Node.js, NODE-RED, C#, SQL, JavaScript, Java, Spring Boot, Rust, ...
+* Frontend: HTML, CSS, JavaScript
+* Database: MS SQL Server, MariaDB, ...
+* Mobile: Android, Flutter
+* DevOps: Azure DevOps
 
 ## Work experience
-`2020/01 – Present` __IP Dynamics GmbH - Software Developer__
-- Part of a team responsible for developing contact center integrations.
+`2020/01 – Present` __IP Dynamics GmbH - Lead Software Developer & Software Architect__
+- Part of a team responsible for designing and developing contact center integrations.
 - [Node-RED](https://nodered.org/) based Workflow Development
-    - node.js, Node-RED, SQL, C#, WiX installer
 - Salesforce CTI and Contact Center Integrations
-  - [OpenCTI](https://help.salesforce.com/s/articleView?id=sf.cloud_cti_api_overview.htm&type=5) and  [Omni-Channel](https://developer.salesforce.com/docs/atlas.en-us.omni_channel_dev.meta/omni_channel_dev/omnichannel_external_routing.htm)
-  - Apex, Visualforce, REST & Streaming Api
-  - in [iAgent](https://www.novomind.com/en/customer-service/iagent/) 
-    - Java [iAgent Apps](https://apps.novomind.com/developer/), Spring Boot, REST APIs
-  - and [Voxtron CC](https://enghouseinteractive.de/loesungen/contact-center/omnichannel-contact-center-software/)
-    - C#, REST APIs
+- in [iAgent](https://www.novomind.com/en/customer-service/iagent/) 
+- and [Voxtron CC](https://enghouseinteractive.de/loesungen/contact-center/omnichannel-contact-center-software/)
 - [Azure DevOps](https://azure.microsoft.com/en-us/products/devops)
 
-`2016/09 – 2019/12` __IP Dynamics GmbH - Contact Center Consultant__
+`2016/09 – 2019/12` __IP Dynamics GmbH - Software Developer & Contact Center Consultant__
 - Contact Center integration projects and development.
-- Technical Consulting, System Architecture, Software Development, Technical Project Management
-- Miscellaneous projects:
-- C#, SQL
+- Solution Architecture and Implementation, Technical Consulting and Project Management, Software Development
+- Miscellaneous projects at large and midsize companies
   
-`2004/01 – 2016/09` __Stephan Klauberg EDV Beratung - Freelancer__
-- Contact Center integration projects and development.
-- Technical Consulting, System Architecture, Software Development, Technical Project Management
-- Miscellaneous projects:
-- Lotus Notes,  C#, Contact Center Client Integration Development
-- VB.net,  C#, SQL, Fat Client Development
-- Perl LDAP to Active Directory Synchronization
-- Java Servlet, JSP, Inventory Database
+`2004/01 – 2016/09` __Freelancer - Software Developer__
+- Software Development, Solution Architecture and Implementation, Technical Consulting and Project Management
+- Solution Design and Implementation for Contact Center Projects 
+- Implementation of Contact Center Client Integration: Lotus Notes,  C#
+- Windows Fat Client to manage of pensions: VB.net,  C#, MS SQL
+- Perl LDAP to Active Directory Synchronization: Perl, LDAP
+- Web CMS Development projects Finance, Event Platform, Intranet: [CoreMedia](https://www.coremedia.com/), Java Servlet, JSP
 - Linux and Windows Server Administration
-- ...
-  
+
 `1998/08 – 2003/12` __GIquadrat mbH - Software Developer__
+- Software Development and System Administration
 - Miscellaneous projects:
-- Java Servlet, JSP Development e.g. [CoreMedia](https://www.coremedia.com/) e.g. [eventstoday.com](https://www.horizont.net/medien/nachrichten/-Grundig-geht-mit-einem-Eventportal-online-26711)  
-- Lotus Notes Administration and Development
-- Linux Administration (Bind, Apache, Postfix, etc.)
+- Java Servlet, JSP Development e.g. [CoreMedia](https://www.coremedia.com/) 
+- Lotus Notes Domino Administration and Development
+- Linux Administration (Bind, Apache, Postfix, Firewall, etc.)
 
 ## Side / Fun Projects
 `2009/01 - Present`
@@ -90,7 +85,7 @@ __Industrieelektroniker (Gerätetechnik)__, Friederich Justus & Co. (GmbH & Co.)
 * Age: 50
 * married, 1 kid
 * born, raised and living in Hamburg, Germany
-* Myers-Briggs: INFP?
+<!-- Myers-Briggs: INFP -->
 
 ## Footer
 <br/>Last updated: Dezember 2023<br/>
