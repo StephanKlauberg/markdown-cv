@@ -20,16 +20,14 @@ Lead Software Developer & Software Architect
 * Frontend: HTML, CSS, JavaScript
 * Database: MS SQL Server, MariaDB, ...
 * Mobile: Android, Flutter
-* DevOps: Azure DevOps
+* DevOps: [Azure DevOps](https://azure.microsoft.com/en-us/products/devops)
 
 ## Work experience
 `2020/01 – Present` __IP Dynamics GmbH - Lead Software Developer & Software Architect__
 - Part of a team responsible for designing and developing contact center integrations.
 - [Node-RED](https://nodered.org/) based Workflow Development
-- Salesforce CTI and Contact Center Integrations
-- in [iAgent](https://www.novomind.com/en/customer-service/iagent/) 
-- and [Voxtron CC](https://enghouseinteractive.de/loesungen/contact-center/omnichannel-contact-center-software/)
-- [Azure DevOps](https://azure.microsoft.com/en-us/products/devops)
+- Salesforce Service Cloud CTI and Contact Center Integrations
+- in [Voxtron CC](https://enghouseinteractive.de/loesungen/contact-center/omnichannel-contact-center-software/) and [iAgent](https://www.novomind.com/en/customer-service/iagent/)
 
 `2016/09 – 2019/12` __IP Dynamics GmbH - Software Developer & Contact Center Consultant__
 - Contact Center integration projects and development.
