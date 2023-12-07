@@ -61,10 +61,10 @@ Lead Software Developer & Software Architect
 __Rust Essential Training__ [LinkedIn Learning Certificate of Completion](https://www.linkedin.com/learning/certificates/9691ffd3445ee104aa5ce32caca0bb9391525a948f92ca94e6eafd074019c655)
 
 `2020`
-__Novomind iAgent App Development__ 
+__[Novomind iAgent App Development](https://apps.novomind.com/developer/iagent/overview.html)__ 
 
 `2008/07`
-__CoreMedia CMS, WebApp & Advanced Web App Development__
+__[CoreMedia CMS](https://www.coremedia.com/), WebApp & Advanced Web App Development__
 
 `2007/Q3`
 __Sybase Adaptive Server Enterprise 12.5, OpenSwitch & Replication Server 15__
