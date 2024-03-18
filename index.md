@@ -5,7 +5,7 @@ title: Stephan Klauberg's CV
 # Stephan Klauberg
 Lead Senior Software Developer & Software Architect
 <br/>
-![](media/stephan.klauberg.jpg)
+<img src="media/stephan.klauberg.jpg" alt="Stephan Klauberg" width="200" height="200"/>
 <div id="webaddress">
 <a href="stephan.klauberg@mailbox.org">stephan.klauberg@mailbox.org</a>
 | <a href="https://www.linkedin.com/in/stephan-klauberg">Linkedin</a>
@@ -89,4 +89,4 @@ __Industrieelektroniker (Gerätetechnik)__, Friederich Justus & Co. (GmbH & Co.)
 <!-- Myers-Briggs: INFP -->
 
 ## Footer
-<br/>Last updated: Dezember 2023<br/>
+<br/>Last updated: March 2024<br/>
