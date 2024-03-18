@@ -5,7 +5,7 @@ title: Stephan Klauberg's CV
 # Stephan Klauberg
 Lead Senior Software Developer & Software Architect
 <br/>
-![](https://media.licdn.com/dms/image/D4E03AQHBrONGduZelA/profile-displayphoto-shrink_200_200/0/1689425380784?e=1706745600&v=beta&t=yzxAruqGsdMzr68KbrpmMTZTdy1zKztKJ9GRLU7N22M)
+![](https://media.licdn.com/dms/image/D4E03AQHBrONGduZelA/profile-displayphoto-shrink_800_800/0/1689425380784?e=1716422400&v=beta&t=pdEniBw2nFg1vFCI-lO7EjfX6TqHVb5Rxx0k8IFtzTE)
 <div id="webaddress">
 <a href="stephan.klauberg@mailbox.org">stephan.klauberg@mailbox.org</a>
 | <a href="https://www.linkedin.com/in/stephan-klauberg">Linkedin</a>
