@@ -3,11 +3,11 @@ layout: cv
 title: Stephan Klauberg's CV
 ---
 # Stephan Klauberg
-Lead Software Developer & Software Architect
+Lead Senior Software Developer & Software Architect
 <br/>
 ![](https://media.licdn.com/dms/image/D4E03AQHBrONGduZelA/profile-displayphoto-shrink_200_200/0/1689425380784?e=1706745600&v=beta&t=yzxAruqGsdMzr68KbrpmMTZTdy1zKztKJ9GRLU7N22M)
 <div id="webaddress">
-<a href="stephan.klauberg@gmail.com">stephan.klauberg@gmail.com</a>
+<a href="stephan.klauberg@mailbox.org">stephan.klauberg@mailbox.org</a>
 | <a href="https://www.linkedin.com/in/stephan-klauberg">Linkedin</a>
 | <a href="https://github.com/StephanKlauberg">GitHub</a>
 | <a href="https://play.google.com/store/apps/dev?id=6166820916362934477">Google Developer</a>
@@ -16,14 +16,14 @@ Lead Software Developer & Software Architect
 
 ## TLDR;
 * 20+ years of experience as Software Developer and IT Generalist
-* Backend: Node.js, NODE-RED, C#, SQL, JavaScript, Java, Spring Boot, Rust, ...
+* Backend: Node.js, NODE-RED, C#, SQL, JavaScript, Java, Python, Rust, ...
 * Frontend: HTML, CSS, JavaScript
-* Database: MS SQL Server, MariaDB, ...
+* Database: MS SQL Server, Maria/MySQLDB, Postg...
 * Mobile: Android, Flutter
 * DevOps: [Azure DevOps](https://azure.microsoft.com/en-us/products/devops)
 
 ## Work experience
-`2020/01 – Present` __IP Dynamics GmbH - Lead Software Developer & Software Architect__
+`2020/01 – Present` __IP Dynamics GmbH - Lead Senior Software Developer & Software Architect__
 - Part of a team responsible for designing and developing contact center integrations.
 - [Node-RED](https://nodered.org/) based Workflow Development
 - Salesforce Service Cloud CTI and Contact Center Integrations
