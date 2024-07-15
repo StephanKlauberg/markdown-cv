@@ -7,7 +7,7 @@ Lead Senior Software Developer & Software Architect
 <br/>
 <img src="media/stephan.klauberg.jpg" alt="Stephan Klauberg" width="200" height="200"/>
 <div id="webaddress">
-<a href="stephan.klauberg@mailbox.org">stephan.klauberg@mailbox.org</a>
+<a href="stephan.klauberg@mailbox.org">stephan.klauberg@gmail.com</a>
 | <a href="https://www.linkedin.com/in/stephan-klauberg">Linkedin</a>
 | <a href="https://github.com/StephanKlauberg">GitHub</a>
 | <a href="https://play.google.com/store/apps/dev?id=6166820916362934477">Google Developer</a>
@@ -79,14 +79,13 @@ __Industrieelektroniker (Gerätetechnik)__, Friederich Justus & Co. (GmbH & Co.)
 ## Languages
 <!-- https://preply.com/de/blog/englisch-sprachniveaus/ -->
 - German: native
-- English : B2/C1
-- Italien: A1
+- English: C1
 
 ## Personal
-* Age: 50
+* Age: 51
 * married, 1 kid
 * born, raised and living in Hamburg, Germany
 <!-- Myers-Briggs: INFP -->
 
 ## Footer
-<br/>Last updated: March 2024<br/>
+<br/>Last updated: July 2024<br/>
