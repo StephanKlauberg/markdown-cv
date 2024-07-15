@@ -51,7 +51,7 @@ Lead Senior Software Developer & Software Architect
 - Lotus Notes Domino Administration and Development
 - Linux Administration (Bind, Apache, Postfix, Firewall, etc.)
 
-## Side / Fun Projects
+## Side / Fun Project
 `2009/01 - Present`
 - [knDosenlibelle](https://play.google.com/store/apps/dev?id=6166820916362934477), 10k Downloads, 3.7 Stars, since 2009
 
