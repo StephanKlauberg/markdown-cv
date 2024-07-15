@@ -9,9 +9,10 @@ Lead Senior Software Developer & Software Architect
 <div id="webaddress">
 <a href="stephan.klauberg@mailbox.org">stephan.klauberg@gmail.com</a>
 | <a href="https://www.linkedin.com/in/stephan-klauberg">Linkedin</a>
-| <a href="https://github.com/StephanKlauberg">GitHub</a>
+<!-- | <a href="https://github.com/StephanKlauberg">GitHub</a>
 | <a href="https://play.google.com/store/apps/dev?id=6166820916362934477">Google Developer</a>
 | <a href="https://stephan-klauberg.blogspot.com">blogspot</a>
+-->
 </div>
 
 ## TLDR;
